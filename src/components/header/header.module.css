@@ -1,0 +1,21 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-image: linear-gradient(to bottom, #1559b7, #4f7af3)
+}
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-grow: 1;
+}
+.logoMobileMenuWrapper a {
+    display: flex;
+    align-items: center;
+}
+
+.logoMobileMenuWrapper a img {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
